@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MarioGT90
-- 🌱 I’m currently working at Clidrive, developing differents products like [Clidrive](https://clidrive.com/) and [Clibrain](https://clibrain.com)
+- 🌱 I’m currently working at [Clibrain](https://clibrain.com)
 - 💞️ I’m looking to collaborate on open source project
